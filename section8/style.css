@@ -1,0 +1,17 @@
+body, html {
+    height: 100%;
+    font-family: 'Comfortaa', cursive;
+}
+
+.bg  {
+    background-image: url(images/landing-page-165.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.white-bg {
+    background-color: white;
+    opacity: 0.65;
+}
