@@ -1,0 +1,11 @@
+#particles-js {
+  background-color: #232741;
+}
+
+body {
+  color: rgb(255,255,255,0.75);
+}
+
+.particles-js-canvas-el {
+  position: absolute;
+}
